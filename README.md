@@ -33,4 +33,4 @@ This chatbot is developed with the perspective of filling the knowledge gap in t
 
 ---
 
-For inquiries, reach out to [Jarred Taylor](www.taylortech.app)
+For inquiries, reach out to [Jarred Taylor](https://jtaylor.app/)
