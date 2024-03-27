@@ -1,5 +1,5 @@
-### Time Estimate
-## Day 1: 3.26.2024
+## Time Estimate
+### Day 1: 3.26.2024
 
 1.  Planning and Design: 1-2 weeks
 

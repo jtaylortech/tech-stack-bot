@@ -14,7 +14,7 @@
 #### Backend
 
 -   Node.js with Express.js: A popular choice for building fast and scalable server-side applications. It's JavaScript-based, which means you can use the same language on both the frontend and backend.
--   Python with Flask or Django: If you plan to incorporate advanced natural language processing (NLP) features, Python offers robust libraries like NLTK, spaCy, and TensorFlow for AI and chatbot development.
+-   Python with Flask ~~or Django~~: If you plan to incorporate advanced natural language processing (NLP) features, Python offers robust libraries like NLTK, spaCy, and TensorFlow for AI and chatbot development.
 
 #### NLP and AI Services
 
